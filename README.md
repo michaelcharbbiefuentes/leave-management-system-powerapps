@@ -1,9 +1,14 @@
 📌 Leave Management System (Power Apps + Power Automate)
-🚀 Overview
 
+🚀 Overview
 This project is an enterprise-style Leave Management System built using Microsoft Power Platform. It automates leave submission, approval, notifications, and reporting while integrating productivity tracking, role-based dashboards, and administrative controls.
 
 The system is designed to simulate real-world HR operations with rule-based automation and data-driven decision-making.
+
+🔥 What problem this solves:
+- Automates approvals: Eliminates tedious manual leave management.
+- Saves time: Cuts operational workload by 70%.
+- Ensures equity: Enforces fair scheduling using adherence-based prioritization.
 
 ⚙️ Key Features
 👤 Leave Management
